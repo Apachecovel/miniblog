@@ -7,7 +7,9 @@
 <script setup>
 
 </script>
-
+export default {
+    name: 'IndexPage',
+}
 <style  scoped>
 
 </style>
